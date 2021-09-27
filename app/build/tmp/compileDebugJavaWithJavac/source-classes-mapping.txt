@@ -1,0 +1,20 @@
+com/example/covid_19symptomstracker/Utilities.java
+ com.example.covid_19symptomstracker.Utilities
+com/example/covid_19symptomstracker/DatabaseHelper.java
+ com.example.covid_19symptomstracker.DatabaseHelper
+com/example/covid_19symptomstracker/MainActivity.java
+ com.example.covid_19symptomstracker.MainActivity
+ com.example.covid_19symptomstracker.MainActivity$1
+ com.example.covid_19symptomstracker.MainActivity$2
+ com.example.covid_19symptomstracker.MainActivity$2$1
+ com.example.covid_19symptomstracker.MainActivity$3
+ com.example.covid_19symptomstracker.MainActivity$3$1
+ com.example.covid_19symptomstracker.MainActivity$3$2
+ com.example.covid_19symptomstracker.MainActivity$4
+com/example/covid_19symptomstracker/SecondScreen.java
+ com.example.covid_19symptomstracker.SecondScreen
+ com.example.covid_19symptomstracker.SecondScreen$1
+com/example/covid_19symptomstracker/CameraPreview.java
+ com.example.covid_19symptomstracker.CameraPreview
+com/example/covid_19symptomstracker/BuildConfig.java
+ com.example.covid_19symptomstracker.BuildConfig
