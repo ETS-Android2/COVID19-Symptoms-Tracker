@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">COVID-19 Symptoms Tracker</string>
+
+    <string-array name="names">
+        <item>Nausea</item>
+        <item>Headache</item>
+        <item>Diarrhea</item>
+        <item>Soar Throat</item>
+        <item>Fever</item>
+        <item>Muscle Ache</item>
+        <item>Loss of Smell or Taste</item>
+        <item>Cough</item>
+        <item>Shortness of Breath</item>
+        <item>Feeling tired</item>
+    </string-array>
+</resources>
